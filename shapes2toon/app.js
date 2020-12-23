@@ -95,6 +95,25 @@ function mousePressed() {
     }
   }
 }
+
+function touchStarted() {
+  if (x == null) {
+    if (onCanvas()) {
+      x = mouseX;
+      y = mouseY;
+    }
+  }
+}
+
+function touchEnded() {
+  if (x != null) {
+    img.ellipseMode(CORNERS);
+    img.ellipse(x, y, mouseX, mouseY);
+    x = null;
+    y = null;
+  }
+}
+
 function mouseReleased() {
   if (x != null) {
     img.ellipseMode(CORNERS);
