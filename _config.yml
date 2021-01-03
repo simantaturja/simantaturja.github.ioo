@@ -2,6 +2,11 @@ title: Simanta Deb Turja # name of the site
 author: Simanta Deb Turja # name of site's author
 tag: Software Engineer
 email: simantaturja@gmail.com # email of site's author
+emailoffice: simanta.deb@cefalo.com
+github: https://github.com/simantaturja
+linkedin: https://linkedin.com/in/simantaturja
+twitter: https://twitter.com/imturja
+facebook: https://facebook.com/SD.Turja
 url: 'https://simantaturja.github.io' # root address of the site
 baseurl: '' # subpath of the site, e.g. "/blog"
 description: > # description of the site (multiple lines allowed)

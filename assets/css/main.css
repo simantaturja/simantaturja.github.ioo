@@ -30,17 +30,8 @@ body {
 .post-meta {
   text-align: right; }
 
-h2,
-h4,
-h5,
-h6 {
-  margin-top: 3rem; }
-
-hr {
-  margin: 2rem 0; }
-
-p {
-  margin: 1rem 0; }
+h4 {
+  margin-top: -0.6rem; }
 
 li {
   margin: 0.4rem 0; }
