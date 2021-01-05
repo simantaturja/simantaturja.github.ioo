@@ -3,26 +3,33 @@ layout: default
 ---
 
 <header>
-  <h1>{{ site.title }}</h1>
-  <h3>{{ site.tag }}</h3>
-  <h4>
-    Reach me: <a href="mailto:simantaturja@gmail.com">{{ site.email }}</a> or
-    <a href="mailto:simanta.deb@cefalo.com">{{ site.emailoffice }}</a>
-  </h4>
-  <h4>
-    Follow me at: 
-    <a href="{{ site.github }}"><i class="fab fa-github"></i></a>
-    <a href="{{ site.linkedin }}"><i class="fab fa-linkedin-in"></i></a>
-    <a href="{{ site.twitter }}"><i class="fab fa-twitter"></i></a>
-    <a href="{{ site.facebook }}"><i class="fab fa-facebook-f"></i></a>
-  </h4>
+  <div class="header_div">
+    <div class="header_img_div">
+      <img class="header_img" src="../turja.jpeg" />
+    </div>
+    <div class="header_info">
+      <h1 class="header_title">{{ site.title }}</h1>
+      <h3>{{ site.tag }}</h3>
+      <h4>
+        Reach me:
+        <a href="mailto:simantaturja@gmail.com">{{ site.email }}</a> or
+        <a href="mailto:simanta.deb@cefalo.com">{{ site.emailoffice }}</a>
+      </h4>
+      <h4>
+        Follow me at:
+        <a href="{{ site.github }}"><i class="fab fa-github"></i></a>
+        <a href="{{ site.linkedin }}"><i class="fab fa-linkedin-in"></i></a>
+        <a href="{{ site.twitter }}"><i class="fab fa-twitter"></i></a>
+        <a href="{{ site.facebook }}"><i class="fab fa-facebook-f"></i></a>
+      </h4>
+    </div>
+  </div>
   <hr />
   <p>
     <strong>Current Affiliation: </strong>Associate Software Engineer at
     <a href="https://www.facebook.com/cefalobangladesh"
       >Cefalo Bangladesh Ltd.</a
     >
-    
   </p>
   <hr />
   {% if site.theme_config.show_description %}
