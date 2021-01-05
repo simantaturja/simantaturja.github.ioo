@@ -27,7 +27,12 @@ theme_config:
 
 sass:
   style: :compressed
-
-plugins:
+  
+gems:
+  - jekyll-font-awesome-sass
+  - jekyll-seo-tag
   - jekyll-feed
   - jekyll-seo-tag
+
+font-awesome:
+  assets: true
