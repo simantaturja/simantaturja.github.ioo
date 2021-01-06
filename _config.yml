@@ -34,5 +34,3 @@ gems:
   - jekyll-feed
   - jekyll-seo-tag
 
-font-awesome:
-  assets: true
