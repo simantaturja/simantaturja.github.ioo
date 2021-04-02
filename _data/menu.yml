@@ -2,9 +2,14 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
+  - title: Talks & Slides
+    entries:
+      - title: Object Oriented Principles, SOLID Principles < <a href="https://drive.google.com/file/d/12-Qa5iBzg3cuteocQgtndHbfGvXoThRn/view?usp=sharing">Slide</a> >
+      - title: Cohesion and Coupling < <a href="https://drive.google.com/file/d/1cMpOE0PkSa7--3-sgNKKu8RjIJrm0Z2N/view?usp=sharing"> Slide </a> >
+
   - title: Podcasts I am currently listening to
     entries:
-      - title: Masters of Scale with <a href="https://en.wikipedia.org/wiki/Reid_Hoffman">Reid Hoffman</a> - <a href="https://podcasts.google.com/feed/aHR0cHM6Ly9yc3MuYXJ0MTkuY29tL21hc3RlcnMtb2Ytc2NhbGU">Link</a>
+      - title: Masters of Scale with < href="https://en.wikipedia.org/wiki/Reid_Hoffman">Reid Hoffman</> - <a href="https://podcasts.google.com/feed/aHR0cHM6Ly9yc3MuYXJ0MTkuY29tL21hc3RlcnMtb2Ytc2NhbGU">Link</a>
 
   - title: Blog posts
     post_list:
