@@ -89,7 +89,7 @@ I have been using Manjaro for four months. I use some tools on a daily basis to 
     - VSCode is my primary code editor and have been using it for a long time.
     - To install VSCode, type-
         ```
-        yay -S vscode
+        sudo snap install code --classic
         ```
 10. ```Fira Code``` and ```Recursive``` Fonts
     - These two fonts I use for my daily programming and development stuff.
