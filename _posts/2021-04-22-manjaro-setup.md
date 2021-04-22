@@ -7,7 +7,7 @@ category: linux
 
 Manjaro is a free and open-source Linux distribution based on the Arch Linux operating system. I use it as my daily driving development device. 
 
-One of most beautiful features of Manjaro is its Rolling Release Development Model where the same core system is continually updated and upgraded rather than reinstalling the new version or release to get the latest features.
+One of the most beautiful features of Manjaro is its Rolling Release Development Model where the same core system is continually updated and upgraded rather than reinstalling the new version or release to get the latest features.
 
 I have been using Manjaro for four months. I use some tools on a daily basis to make my Manjaro user experience better. These tools are not integrated with Manjaro if you have a fresh copy Manjaro installed in your system. So, if you are interested to know more about the tools I use, read it further below.
 
