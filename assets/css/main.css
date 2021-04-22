@@ -80,7 +80,9 @@ td {
   border-collapse: collapse;
   padding: 0.4rem; }
 
-
+code {
+  background: whitesmoke;
+  font-size: medium; }
 
 div.highlighter-rouge code {
   display: block;
