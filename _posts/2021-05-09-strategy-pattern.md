@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Getting Started with Software Engineering
+title: Strategy Design Pattern
 slug: strategy-pattern
 category: design-pattern
 ---
