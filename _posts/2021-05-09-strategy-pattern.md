@@ -23,7 +23,7 @@ Checkout System তৈরি করার কিছু Initial Requirements আ�
 
 আমরা যদি এই Requirements এর ভিত্তিতে Naive একটা Solution লিখার চেষ্টা করি, তাহলে কোডটা এমন হবে।
 
-```
+```Java
 package com.simantaturja.naive;
 
 public class PaymentMethods {
